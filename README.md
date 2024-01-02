@@ -35,20 +35,35 @@ Write the detailed procedure here
 ## Program:
 /*
 Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by: T. Gayathri
+RegisterNumber:  212223100007
 */
+## Half Subtractor 
+![Exp4 hs code](https://github.com/gayumee/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/149037327/8f3f3aca-7433-4041-b1b7-b49f05ab85b1)
+## Full Subtractor 
+![Exp4 fs code](https://github.com/gayumee/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/149037327/697c6b9e-f903-4296-8d48-2035e0f3613d)
 
-## Output:
 
 ## Truthtable
+## Half subtractor
+![Exp4 truthtable hs](https://github.com/gayumee/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/149037327/059f427e-e826-48d5-9f9e-469a8d7be1fb)
+## Full subtractor
+![Exp4 truthtable fs](https://github.com/gayumee/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/149037327/57875e62-9902-43ea-95c5-5ca971a95b23)
 
 
 
 ##  RTL realization
+## Half subtractor 
+![Exp4 hs RTL diagram](https://github.com/gayumee/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/149037327/97584449-920d-46cb-986f-08d9184f67df)
 
+## Full subtractor 
+![Exp4 fs RTL diagram](https://github.com/gayumee/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/149037327/df830a05-a6c5-47bb-8b73-491158eed5cf)
 
 ## Timing diagram 
+## Half subtractor
+![hs wave](https://github.com/gayumee/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/149037327/b6023ecb-f470-424c-94bc-a439d2469ffd)
 
+## Full subtractor 
+![fs wave](https://github.com/gayumee/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/149037327/f7e14b07-62d3-42a4-983c-aae687539fbe)
 ## Result:
 Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software.
